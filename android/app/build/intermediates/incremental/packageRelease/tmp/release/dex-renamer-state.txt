@@ -1,0 +1,4 @@
+#Sun Nov 08 16:20:49 CET 2020
+base.0=/home/cr/Epitech/DEV/B-DEV-501-PAR-5-1-epicture-vivien.bouvier/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
